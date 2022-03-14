@@ -1,0 +1,5 @@
+/bin/
+*.csv
+*.json
+/target/
+/src/andrfish/main/Testing.java
