@@ -1,0 +1,12 @@
+{
+	"icuFullDays": -1.00,
+	"maxInfectedDays": -1.00,
+	"infectionEndDays": 128.20,
+	"totalInfected": 9538.52,
+	"totalDead": 137.36,
+	"ruralIcuFullDays": -1.00,
+	"ruralMaxInfectedDays": -1.00,
+	"ruralInfectionEndDays": 0.10,
+	"ruralTotalInfected": 0.00,
+	"ruralTotalDead": 0.00
+}
